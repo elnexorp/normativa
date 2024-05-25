@@ -1,0 +1,19 @@
+site_name: Normativa oficial de El Nexo RP
+site_url: http://normativa.elnexorp.com
+
+nav:
+  - Inicio: index.md
+  - Conceptos Básicos: conceptos.md
+  - Normativa General: general.md
+  - Normativa Ilegales: ilegales.md
+  - Normativa Policías: policias.md
+  - Normativa EMS: ems.md
+  - Normativa Mecánicos: mecanicos.md
+  - Normativa Streamers: streamers.md
+  - Tabla de sanciones: sanciones.md
+  - Términos y condiciones: terminos.md
+
+theme: readthedocs
+
+extra_css:
+  - style.css
