@@ -1,6 +1,6 @@
 # Normativa de Policías
 
-<center>![Policia!](/assets/images/policia_intro.png)</center>
+<center>![Policia!](../assets/images/policia_intro.png)</center>
 
 Bienvenidos a la **normativa de policía** del servidor de GTA V roleplay El Nexo RP. En este servidor, buscamos una experiencia de juego realista e inmersiva, donde cada jugador viva una vida alternativa en Los Santos. **La policía juega un papel crucial** en mantener el orden y la seguridad, protegiendo a los ciudadanos y haciendo cumplir las leyes.
 
