@@ -1,4 +1,7 @@
 # Normativa Ilegales
+
+<center>![Normativa Ilegales!](assets/images/ilegales_intro.png)</center>
+
 ## General
 ## Tiroteos
 ## Atracos

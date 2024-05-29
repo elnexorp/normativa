@@ -1,4 +1,4 @@
-<center>![El Nexo RP!](./assets/images/logo.png)</center>
+<center>![El Nexo RP!](assets/images/logo.png)</center>
 
 Bienvenidos a El Nexo RP, un servidor de GTA V roleplay diseñado para ofrecer una **experiencia de juego inmersiva, realista y dinámica**. Nuestro objetivo es proporcionar a cada jugador la oportunidad de vivir una vida alternativa en el vibrante y caótico mundo de Los Santos. Para mantener la armonía y el disfrute de todos los participantes, hemos establecido una **normativa detallada que todos deben seguir**.
 

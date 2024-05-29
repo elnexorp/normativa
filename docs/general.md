@@ -1,5 +1,7 @@
 # Normativa General
 
+<center>![Normativa General!](assets/images/general_intro.png)</center>
+
 ## Normas Generales
 ### Reinicios
 ### Duplicación
