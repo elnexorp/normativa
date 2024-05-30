@@ -6,44 +6,44 @@ El rol de los mecánicos es crucial para mantener la dinámica y la autenticidad
 
 ## General
 
-- Presencia en el Taller: Los mecánicos deben permanecer en el taller a la espera de llamadas y/o clientes. Si hay suficientes mecánicos en servicio, se puede salir con la grúa a patrullar, asegurando siempre que haya al menos 1 mecánico en el taller y un máximo de 3 en servicio.
+- **Presencia en el Taller:** Los mecánicos deben permanecer en el taller a la espera de llamadas y/o clientes. Si hay suficientes mecánicos en servicio, se puede salir con la grúa a patrullar, asegurando siempre que haya al menos **1 mecánico en el taller y un máximo de 3 en servicio**.
 
-- Comunicación: Es obligatorio estar en radio durante el servicio para una mejor organización entre los miembros.
+- **Comunicación:** Es obligatorio estar en radio durante el servicio para una mejor organización entre los miembros.
 
-- Realización de Roles: Se debe realizar un rol detallado al acudir a asistencias en carretera y tuneos, utilizando comandos como:
+- **Realización de Roles:** Se debe realizar un rol detallado al acudir a asistencias en carretera y tuneos, utilizando comandos como:
     - /me llama a la grúa
     - /do se vería a la grúa llevarse el vehículo
     - /me le entrega la factura
     - /do se vería pagada en la aplicación del móvil
 
-- Uso de la Grúa: Para asistir a las llamadas en carretera es obligatorio usar la grúa. En casos complicados, se utilizará la mesa plana o grúa. Las asistencias en carretera siempre se cobrarán en efectivo.
+- **Uso de la Grúa:** Para asistir a las llamadas en carretera es obligatorio usar la grúa. En casos complicados, se utilizará la mesa plana o grúa. Las asistencias en carretera siempre se cobrarán en efectivo.
 
-- Prohibiciones: Está prohibido abusar de las funciones del menú de mecánicos, como usar la función “forzar” para robar vehículos ajenos.
+- **Prohibiciones:** Está prohibido abusar de las funciones del menú de mecánicos, como usar la función “forzar” para robar vehículos ajenos.
 
-- Uniforme: Al entrar en servicio, es obligatorio ponerse el uniforme correspondiente, disponible en el armario del taller.
+- **Uniforme:** Al entrar en servicio, es obligatorio ponerse el uniforme correspondiente, disponible en el armario del taller.
 
-- Prioridad en Llamadas: Se deben priorizar las llamadas realizadas por otras facciones (Policías, EMS y Taxistas).
+- **Prioridad en Llamadas:** Se deben priorizar las llamadas realizadas por otras facciones (Policías, EMS y Taxistas).
 
-- Continuidad en Tuneos: Los tuneos no se detendrán hasta que el cliente haya realizado todas las modificaciones requeridas.
+- **Continuidad en Tuneos:** Los tuneos no se detendrán hasta que el cliente haya realizado todas las modificaciones requeridas.
 
-- Llamadas de Emergencia: Si hay dos mecánicos en servicio y llega una llamada de emergencia, solo uno podrá acudir, ya que el taller no puede quedar sin supervisión.
+- **Llamadas de Emergencia:** Si hay dos mecánicos en servicio y llega una llamada de emergencia, solo uno podrá acudir, ya que el taller no puede quedar sin supervisión.
 
-- Cierre del Taller: El último mecánico en servicio debe asegurarse de que las puertas del taller estén cerradas al retirarse.
+- **Cierre del Taller:** El último mecánico en servicio debe asegurarse de que las puertas del taller estén cerradas al retirarse.
 
-- Ventas: Está prohibido regalar o vender kits de reparación y/o sopletes por debajo del precio mínimo, excepto en los convenios estipulados con otras facciones.
+- **Ventas:** Está prohibido regalar o vender kits de reparación y/o sopletes por debajo del precio mínimo, excepto en los convenios estipulados con otras facciones.
 
 Estas normas aseguran un servicio de calidad y mantienen la integridad del rol dentro del servidor. Gracias por su compromiso y profesionalismo.
 
 ## Tuneos
 
-- Está prohibido que un mecánico realice un tuneo de su vehículo personal sin autorización del jefe.
+- **Autorización:** Está prohibido que un mecánico realice un tuneo de su vehículo personal sin autorización del jefe.
 
-- Antes de realizar cualquier modificación, el mecánico debe preguntar al cliente qué tipo de modificaciones desea y ponerlo al corriente con los precios correspondientes al tipo de vehículo. En caso de duda, se debe consultar al jefe de mecánicos por medio de la radio. Si el cliente no cuenta con el dinero suficiente, el tuneo no se llevará a cabo.
+- **Consulta al Cliente:** Antes de realizar cualquier modificación, el mecánico debe preguntar al cliente qué tipo de modificaciones desea y ponerlo al corriente con los precios correspondientes al tipo de vehículo. En caso de duda, se debe consultar al jefe de mecánicos por medio de la radio. Si el cliente no cuenta con el dinero suficiente, el tuneo no se llevará a cabo.
 
-- Está prohibido hacer un intercambio de tuneo por cualquier otra cosa con otro usuario.
+- **Intercambio:** Está prohibido hacer un intercambio de tuneo por cualquier otra cosa con otro usuario.
 
-- Para cobrar a un cliente por los tuneos realizados, siempre se emitirá una factura, la cual incluirá también el precio de la mano de obra. Cobrar de más será sancionado con una penalización o baneo.
+- **Cobro:** Para cobrar a un cliente por los tuneos realizados, siempre se emitirá una factura, la cual incluirá también el precio de la mano de obra. Cobrar de más será sancionado con una penalización o baneo.
 
-- Está totalmente prohibido realizar tuneos de manera gratuita para cualquier persona.
+- **Prohibición de Tuneos Gratuitos:** Está totalmente prohibido realizar tuneos de manera gratuita para cualquier persona.
 
-- El incumplimiento de cualquiera de estos puntos conllevará el despido inmediato del cuerpo de mecánicos, además de la respectiva sanción por el acto cometido.
+El incumplimiento de cualquiera de estos puntos conllevará el **despido inmediato** del cuerpo de mecánicos, además de la respectiva sanción por el acto cometido.

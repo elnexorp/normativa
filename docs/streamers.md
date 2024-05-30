@@ -10,14 +10,14 @@ Agradecemos su cooperación y dedicación para mantener un entorno de streaming 
 
 ## General
 
-- Todos los streamers deben adherirse a la normativa igual que cualquier otro ciudadano.
+- **Adherencia a la Normativa:** Todos los streamers deben adherirse a la normativa igual que cualquier otro ciudadano.
 
-- Todos los creadores de contenido deberán añadir a su título del stream "El Nexo RP +18".
+- **Título del Stream:** Todos los creadores de contenido deberán añadir a su título del stream "El Nexo RP +18".
 
-- Tanto el creador de contenido como sus moderadores tienen la obligación de evitar cualquier comportamiento tóxico, tanto por parte del streamer como de los viewers. Esto incluye faltas de respeto, insultos, vejaciones e incumplimientos de la normativa del servidor.
+- **Comportamiento Tóxico:** Tanto el creador de contenido como sus moderadores tienen la obligación de evitar cualquier comportamiento tóxico, tanto por parte del streamer como de los viewers. Esto incluye faltas de respeto, insultos, vejaciones e incumplimientos de la normativa del servidor.
 
-- Si la administración considera necesario intervenir en el streaming, el streamer deberá silenciar el directo y ocultar la pantalla hasta que termine la intervención y conversación.
+- **Intervención Administrativa:** Si la administración considera necesario intervenir en el streaming, el streamer deberá **silenciar el directo y ocultar la pantalla** hasta que termine la intervención y conversación.
 
-- El Meta Gaming (MG) creado para aparecer en los streamings de los creadores de contenido será sancionado de forma muy grave.
+- **Meta Gaming (MG):** El Meta Gaming (MG) creado para aparecer en los streamings de los creadores de contenido será sancionado de forma muy grave.
 
-- Si estás en Discord o cualquier otra aplicación de voz, debes estar muteado durante el stream para evitar el MG y que se escuche a la gente en el stream. Todo debe ser IC.
+- **Uso de Aplicaciones de Voz:** Si estás en Discord o cualquier otra aplicación de voz, debes estar **muteado durante el stream** para evitar el MG y que se escuche a la gente en el stream. Todo debe ser IC.
