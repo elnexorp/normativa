@@ -137,9 +137,7 @@ La sección de Ilegales está diseñada para permitir una experiencia de rol inm
 - **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
 - **Vehículos permitidos:** Todos.
 - **Horario de robo:** Todo el día.
-- **Armamento permitido:** Ar
-
-mas blancas, pistolas y subfusiles.
+- **Armamento permitido:** Armas blancas, pistolas y subfusiles.
 - **Tiradores:** Máximo un tirador por cada bando. Los tiradores siempre deberán estar colocados en tejados y no podrán usar el arma en la calle.
 - **Herramientas:** Ganzúa, kit de herramientas, portátil y C4.
 - **Rehenes:** 4 máximo.
