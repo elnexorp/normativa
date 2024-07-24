@@ -37,60 +37,52 @@ Esperamos que todos los miembros de la policía de El Nexo RP sigan estas direct
 
 ## Rangos
 
-### Aprendiz
+### Recluta
 
 - Recién ingresado al cuerpo deberá cumplir 3 días de servicio, siempre que sea posible acompañado de un superior, de patrullaje por la ciudad para lograr el rango de Policía.
 - Los aprendices sólo podrán acudir a robos a badulaques o delitos menores.
 - Durante el periodo como aprendiz solo podrás portar la pistola taser y la porra reglamentaria.
 - El salario del aprendiz será de 350€.
 
-### Policía
+### Oficial
 
-- La policía podrá ir a todo tipo de atracos, siempre coordinados con sus superiores si es posible.
-- Los policías podrán utilizar armamento de grado 1. Podrán utilizar armamento de nivel superior bajo aprobación de un Inspector o superior.
-- Los policías podrán instruir a los aprendices.
-- El salario de policía será de 700€.
+- El oficial podrá ir a todo tipo de atracos, siempre coordinados con sus superiores si es posible.
+- Los oficiales podrán utilizar armamento de grado 1. Podrán utilizar armamento de nivel superior bajo aprobación de un Inspector o superior.
+- Los oficiales podrán instruir a los aprendices.
+- El salario de oficial será de 700€.
 
-### Subinspector
+### Sargento
 
-- El subinspector podrá ir a todo tipo de atracos y secuestros, siempre coordinados con sus superiores si es posible.
-- El subinspector podrá activar alertas hasta nivel Verde.
-- Los subinspectores podrán utilizar armamento de grado 1. Podrán utilizar armamento de nivel superior bajo aprobación de un Inspector o superior.
-- El salario de policía será de 900€.
+- El sargento podrá ir a todo tipo de atracos y secuestros, siempre coordinados con sus superiores si es posible.
+- El sargento podrá activar alertas hasta nivel Verde.
+- Los sargentos podrán utilizar armamento de grado 1. Podrán utilizar armamento de nivel superior bajo aprobación de un Inspector o superior.
+- El salario de sargento será de 900€.
 
-### Inspector
+### Teniente
 
-- El inspector podrá ir a todo tipo de atracos y secuestros, siempre coordinados con sus superiores si es posible.
-- El inspector podrá activar alertas hasta nivel Amarillo.
-- Los inspectores serán los encargados de iniciar los casos de investigación de posibles organizaciones de venta de droga.
-- Los inspectores podrán utilizar armamento de grado 2.
-- El salario de policía será de 1200€.
+- El teniente podrá ir a todo tipo de atracos y secuestros, siempre coordinados con sus superiores si es posible.
+- El teniente podrá activar alertas hasta nivel Amarillo.
+- Los teniente serán los encargados de iniciar los casos de investigación de posibles organizaciones de venta de droga.
+- Los teniente podrán utilizar armamento de grado 2.
+- El salario de teniente será de 1200€.
+
+### Capitán
+
+- El capitán no podrá ir a atracos y secuestros si hay rangos inferiores de servicio. En ese caso, siempre deberán acudir antes los rangos inferiores.
+- El capitán podrá activar alertas hasta nivel Rojo.
+- Los capitanes serán los encargados de iniciar los casos de investigación para desmantelar posibles mafias o carteles.
+- Los capitanes serán los encargados de organizar la maya de comunicaciones en caso de ausencia del director general.
+- Los capitanes podrán utilizar armamento de grado 3.
+- El salario de capitán será de 1500€.
 
 ### Comisario
 
-- El comisario no podrá ir a atracos y secuestros si hay rangos inferiores de servicio. En ese caso, siempre deberán acudir antes los rangos inferiores.
-- El comisario podrá activar alertas hasta nivel Rojo.
-- Los comisarios serán los encargados de iniciar los casos de investigación para desmantelar posibles mafias o carteles.
-- Los comisarios serán los encargados de organizar la maya de comunicaciones en caso de ausencia del director general.
-- Los comisarios podrán utilizar armamento de grado 3.
-- El salario de policía será de 1500€.
-
-### Subdirector General
-
-- Los subdirectores generales se encargan de organizar las operaciones para las redadas o desmantelaciones de las sedes o locales de organizaciones criminales reportadas por los Comisarios o Inspectores.
-- Los subdirectores generales podrán activar todas las alertas.
-- Los subdirectores serán los encargados de organizar la maya de comunicaciones.
-- El subdirector general podrá utilizar armamento de grado 3.
-- El salario de policía será de 1800€.
-
-### Director General
-
-- Es el encargado de la gestión global de la policía. El director general deberá convocar oposiciones, realizará los despidos o contrataciones. 
-- El Director General podrá alterar cualquier restricción de armamento de un rol inferior.
-- El Director General podrá autorizar el uso de cualquier vehículo disponible si considera que la situación lo requiere.
-- Los subdirectores serán los encargados de organizar la maya de comunicaciones.
-- El subdirector general podrá utilizar armamento de grado 3.
-- El salario de policía será de 2100€.
+- Es el encargado de la gestión global de la policía. El Comisario deberá convocar oposiciones, realizará los despidos o contrataciones. 
+- El Comisario podrá alterar cualquier restricción de armamento de un rol inferior.
+- El Comisario podrá autorizar el uso de cualquier vehículo disponible si considera que la situación lo requiere.
+- El Comisario será el encargado de organizar la maya de comunicaciones. En caso de no estar disponible el encargado de la organización será el rango más alto disponible.
+- El Comisario podrá utilizar armamento de grado 3.
+- El salario de comisario será de 2100€.
 
 ## Procedimientos
 

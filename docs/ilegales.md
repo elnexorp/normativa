@@ -52,7 +52,7 @@ La sección de Ilegales está diseñada para permitir una experiencia de rol inm
 ### Robos a civiles
 
 - **Policías disponibles:** No es necesario preguntar por policías en servicio. Tampoco es necesario esperar en caso de que no acudan.
-- **Policías:** 2 máximo.
+- **Policías:** De 2 a 4 policías.
 - **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
 - **Vehículos permitidos:** Todos.
 - **Horario de robo:** Todo el día.
@@ -66,31 +66,18 @@ La sección de Ilegales está diseñada para permitir una experiencia de rol inm
 
 ### Robos a ATM
 
-- **Policías disponibles:** No es necesario preguntar por policías en servicio. Tampoco es necesario esperar en caso de que no acudan.
-- **Policías:** 2 máximo, no tendrán permitido el uso de motos. En el caso de que coincidan ambos bandos, la policía deberá dar la oportunidad de que los atracadores se suban a su vehículo y escapen.
-- **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
-- **Vehículos permitidos:** Vehículos 4x4.
-- **Horario de robo:** Solo permitido de noche IC.
-- **Armamento permitido:** Pistolas de SNS a Walther P99.
-- **Herramientas:** Taladro, soplete y un kit de herramientas.
-- **Rehenes:** No permitidos.
-
-### Robos a Furgón Blindado
-
-- **Policías disponibles:** No es necesario preguntar por policías en servicio. Tampoco es necesario esperar en caso de que no acudan.
-- **Policías:** 2 a 4 policías.
-- **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
+- **Policías disponibles:** No es necesario preguntar por policías en servicio. No es necesario esperar en caso de que no acudan.
+- **Policías:** De 2 a 4 policías. En el caso de que coincidan ambos bandos, la policía deberá dar la oportunidad de que los atracadores se suban a su vehículo y escapen.
 - **Vehículos permitidos:** Todos.
-- **Horario de robo:** Todo el día.
-- **Armamento permitido:** Sin restricción.
-- **Herramientas:** Taladro o C4.
+- **Horario de robo:** Solo permitido de noche IC.
+- **Armamento permitido:** Pistolas.
+- **Herramientas:** Taladro, troyano USB.
 - **Rehenes:** No permitidos.
 
 ### Robos a Casas
 
 - **Policías disponibles:** No es necesario preguntar por policías en servicio. Tampoco es necesario esperar en caso de que no acudan.
-- **Policías:** 2 máximo.
-- **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
+- **Policías:** De 2 a 4 policías.
 - **Vehículos permitidos:** Todos.
 - **Horario de robo:** Solo permitido de noche IC.
 - **Armamento permitido:** Armas blancas y pistolas.
@@ -101,7 +88,6 @@ La sección de Ilegales está diseñada para permitir una experiencia de rol inm
 
 - **Policías disponibles:** No es necesario preguntar por policías en servicio. Tampoco es necesario esperar en caso de que no acudan.
 - **Policías:** De 2 a 4 policías.
-- **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
 - **Vehículos permitidos:** Todos.
 - **Horario de robo:** Todo el día.
 - **Armamento permitido:** Armas blancas y pistolas.
@@ -112,7 +98,6 @@ La sección de Ilegales está diseñada para permitir una experiencia de rol inm
 
 - **Policías disponibles:** No es necesario preguntar por policías en servicio. Tampoco es necesario esperar en caso de que no acudan.
 - **Policías:** De 2 a 4 policías.
-- **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
 - **Vehículos permitidos:** Todos.
 - **Horario de robo:** Todo el día.
 - **Armamento permitido:** Armas blancas y pistolas.
@@ -127,32 +112,9 @@ La sección de Ilegales está diseñada para permitir una experiencia de rol inm
 - **Vehículos permitidos:** Todos.
 - **Horario de robo:** Todo el día.
 - **Armamento permitido:** Armas blancas, pistolas y subfusiles.
-- **Herramientas:** Ganzúa, kit de herramientas, portátil y USB Troyano.
+- **Herramientas:** Portátil, kit electrónico y taladro.
 - **Rehenes:** 4 máximo.
 
-### Robos a joyerías
-
-- **Policías disponibles:** Mínimo 5 policías.
-- **Policías:** De 5 a 8 policías. Se deberá esperar a que acuda la policía antes de poder huir durante un máximo de 45 minutos.
-- **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
-- **Vehículos permitidos:** Todos.
-- **Horario de robo:** Todo el día.
-- **Armamento permitido:** Armas blancas, pistolas y subfusiles.
-- **Tiradores:** Máximo un tirador por cada bando. Los tiradores siempre deberán estar colocados en tejados y no podrán usar el arma en la calle.
-- **Herramientas:** Ganzúa, kit de herramientas, portátil y C4.
-- **Rehenes:** 4 máximo.
-
-### Robos al Banco Central
-
-- **Policías disponibles:** Mínimo 7 policías.
-- **Policías:** De 7 a 10 policías. Se deberá esperar a que acuda la policía antes de poder huir durante un máximo de 1 hora.
-- **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
-- **Vehículos permitidos:** Todos.
-- **Horario de robo:** Todo el día.
-- **Armamento permitido:** Sin restricciones.
-- **Herramientas:** Taladro, taladro láser, portátil, USB Troyano y C4.
-- **Tiradores:** Máximo un tirador por cada bando. Los tiradores siempre deberán estar colocados en tejados y no podrán usar el arma en la calle.
-- **Rehenes:** 8 máximo.
 
 ## Secuestros y Rescates
 
