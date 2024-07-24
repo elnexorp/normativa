@@ -213,49 +213,37 @@ Esperamos que todos los miembros de la policía de El Nexo RP sigan estas direct
 
 |  Código      |      Mensaje  |
 |:--------------:|:-------------|
-| 10-0         | PRECACIÓN              |
-| 10-4         | AFIRMATIVO / RECIBIDO  |
-| 10-05        | NEGATIVO   |
-| 10-6         | OCUPADOS   |
-| 10-7         | DISPONIBLES   |
-| 10-08        | VUELTA COMISARÍA   |
-| 10-09        | REPETIR MENSAJE   |
-| 10-10        | SOLICITAR SALIR DE SERVICIO A H-50   |
-| 10-20        | UBICACIÓN EXACTA   |
-| 10-26        | DESATIENDA LA ÚLTIMA INFORMACIÓN   |
-| 10-31        | PERSONA SOSPECHOSA.   |
-| 10-32        | SE REQUIERE UNA PATRULLA   |
-| 10-33        | PATRULLAJE DONDE ORDENE H-50   |
-| 10-35        | COMPROBAR RADIO |
-| 10-37        | SE REQUIERE GRÚA   |
-| 10-38        | SE REQUIERE AMBULANCIA   |
-| 10-47        | ACCIDENTE EN HUIDA   |
-| 10-50        | EN CAMINO   |
-| 10-62        | REPORTAR LA UNIDAD   |
-| 10-80        | REUNIÓN EN SALA DE MEETING |  
-| 10-90        | FALSA ALARMA   |
-| 10-99        | SITUACIÓN CONTROLADA   |
+| 10-3         | PRECAUCIÓN              |
+| 10-4         | AFIRMATIVO              |
+| 10-5         | NEGATIVO                |
+| 10-6         | OCUPADOS                |
+| 10-7         | DISPONIBLES             |
+| 10-8         | VUELTA A COMISARÍA      |
+| 10-9         | REPETIR MENSAJE         |
+| 10-10        | ABANDONO EL SERVICIO    |
+| 10-15        | PERSONA ENMASCARADA     |
+| 10-20        | POSICIÓN DEL AGENTE     |
+| 10-32        | NECESITO REFUERZOS      |
+| 10-33        | PATRULLANDO             |
+| 10-35        | COMPROBACIÓN DE RADIO   |
+| 10-37        | SOLICITAR GRÚA          |
+| 10-38        | SOLICITAR AMBULANCIA    |
+| 10-42        | ZONA DESPEJADA          |
+| 10-55        | FALSA ALARMA            |
+| 10-97        | EN CAMINO               |
 | 5/5          | ALTO Y CLARO  |
-| 6-ADAMS      | SOLICITO REFUERZOS   |
 | QRR          | LA VIDA DE UN AGENTE ESTÁ EN PELIGRO   |
+| QRA          | SOSPECHOSO MOSTRANDO RESISTENCIA   |
+| QRH          | HOMICIDIO   |
+| QRM          | APAGADO DE RADIO PARA ESCUCHAR EL ENTORNO   |
+| QRS          | SECUESTRO   |
 | QRX          | SILENCIO EN RADIO   |
 | Código 1     | PERSECUCIÓN  |
 | Código 2     | TIROTEO   |
-| Código 3     | ATRACO A MANO ARMADA  |
-| Código 4     | ATENDIENDO DENUNCIAS   |
-| Código 5     | PROCESANDO A UN SUJETO  |
+| Código 3     | ATRACO |
+| Código 5     | ACTIVIDADES SOSPECHOSAS  |
+| Código 7     | DISTURBIOS EN CURSO  |
 | Código 100   | BLOQUEO EN CARRETERA   |
 | Código PIT   | CHOCAR EL VEHÍCULO POR UN COSTADO <br />CON LA INTENCIÓN DE DESESTABILIZAR EL VEHÍCULO   |
 | MODO CHARLIE | MODO DE RADIO COMUNICADOS CORTOS Y RAPIDOS   |
 | CLAVE ROBERT | PERMISO PARA ABRIR FUEGO A RUEDAS  |
-
-## Condenas
-
-|       Rango        |         Condena        |
-|:------------------:|:-----------------------|
-| 5,000€ a 10.000€   | 5 meses en la prisión  |
-| 10.001€ a 21.000€  | 10 meses en la prisión |
-| 21.001€ a 35.000€  | 15 meses en la prisión |
-| 35.001€ a 50.000€  | 20 meses en la prisión |
-| 50.001€ a 100.000€ | 30 meses en la prisión |
-| 100.001€ o más     | Cadena perpetua (CK)   |
