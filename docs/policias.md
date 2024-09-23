@@ -26,6 +26,7 @@ Esperamos que todos los miembros de la policía de El Nexo RP sigan estas direct
 - Antes del ingreso a comisaría de un civil, deberán leerle los derechos que tiene.
 - Está totalmente prohibido quedarse AFK dentro del servicio.
 - Siempre se debe tratar a los civiles de manera respetable, en el caso de que tengan una actitud agresiva o irrespetuosa, se podrán tomar las medidas necesarias.
+- Los agentes deberán patrullar con las unidades Z. Los interceptors solo podrán ser usados en atracos en el que se utilicen vehículos de alta velocidad.
 
 ## Alertas
 
