@@ -115,6 +115,17 @@ La sección de Ilegales está diseñada para permitir una experiencia de rol inm
 - **Herramientas:** Portátil, kit electrónico y taladro.
 - **Rehenes:** 4 máximo.
 
+### Robos a Joyería
+
+- **Policías disponibles:** Mínimo 4 policías.
+- **Policías:** De 4 a 6 policías. Se deberá esperar a que acuda la policía antes de poder huir durante un máximo de 30 minutos.
+- **Entorno:** Sí, con descripción de ladrones y vehículo en el que escapan.
+- **Vehículos permitidos:** Todos.
+- **Horario de robo:** Por la noche de 21 a 6.
+- **Armamento permitido:** Armas blancas, pistolas y subfusiles.
+- **Herramientas:** Termita y Cortador de cristal.
+- **Rehenes:** 6 máximo.
+
 
 ## Secuestros y Rescates
 
