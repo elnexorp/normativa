@@ -220,3 +220,7 @@ Está completamente prohibido el uso de **cualquier mod gráfico** que proporcio
 Está prohibido llamar a los números de servicios para **insultar o gastar bromas**; quienes lo hagan serán sancionados gravemente.
 
 También está prohibido llamar a un servicio y luego irse del lugar como broma o trolleo.
+
+### Trabajos
+
+Está totalmente prohibido tener el job de un trabajo (EMS, mecánico, policía, tendero...) si no estás ejerciendo ese trabajo. Es responsabilidad de cada uno al conectar el ponerse el job de Civil.
